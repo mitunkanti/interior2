@@ -1,0 +1,349 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+	/* CSS */
+	.slider-text h2 {
+		font-size: 45px !important;
+		width: 80% !important;
+	}
+
+	a.navbar-brand {
+		margin-left: 112px !important;
+	}
+
+	.padd-parra {
+		padding: 23px 80px !important;
+	}
+
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+	/* CSS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+	/* CSS */
+	a.navbar-brand {
+		margin-left: 62px;
+	}
+
+	.sec-post {
+		padding: 45px 30px !important;
+	}
+
+	.sec-2-h h2 {
+		font-size: 22px !important;
+	}
+
+	.sec-post p {
+		width: 80% !important;
+	}
+
+	.slider-text h2 {
+		font-size: 35px;
+	}
+
+	.slider-text a {
+		padding: 14px 20px;
+	}
+
+	.work-title h2 {
+		padding: 0px;
+		margin-left: 70px;
+		padding-bottom: 20px;
+	}
+
+	.sec-img img {
+		width: 90%;
+	}
+
+	.padd-parra {
+		padding: 10px 10px !IMPORTANT;
+	}
+
+	.about-sec-content h2 {
+		font-size: 18px !IMPORTANT;
+		width: 100% !IMPORTANT;
+	}
+
+	.about-sec-content p {
+		width: 100% !important;
+		font-size: 12px !IMPORTANT;
+	}
+
+	.about-single p {
+		font-size: 12px !important;
+	}
+
+	.about-post {
+		margin-bottom: 0px !important;
+	}
+
+	a.btn-design {
+		margin-top: 5px !important;
+	}
+
+	.footer-top p {
+		font-size: 24px !important;
+		width: 100% !important;
+	}
+
+	.footer-top-2 h2 {
+		font-size: 24px !important;
+	}
+
+	.adress-post p {
+		font-size: 12px !IMPORTANT;
+		width: 85% !IMPORTANT;
+	}
+
+	.Subscribe-post input {
+		font-size: 10px !important;
+	}
+
+	.Subscribe-post p {
+		font-size: 9px !important;
+	}
+
+	.Subscribe-post button {
+		font-size: 9px !important;
+		padding: 0px 20px !important;
+	}
+
+	.insta-single img {
+		width: 95%;
+	}
+
+
+
+
+
+
+
+
+
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+	/* CSS */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+	/* CSS */
+
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+	/* CSS */
+
+	.slider-text h2 {
+		font-size: 30px;
+	}
+
+	.slider-text a {
+		padding: 12px 25px;
+	}
+
+	.sec-post {
+		padding: 40px 50px;
+	}
+
+
+	.work-title h2 {
+		padding: 0px 0px !important;
+		font-size: 30px !important;
+		margin-left: 0px !important;
+		text-align: center !important;
+	}
+
+	.sec-img img {
+		width: 90% !important;
+		height: 250px !important;
+	}
+
+	.sec-text {
+		text-align: center;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	.marg {
+		margin-top: 10px !important;
+	}
+
+	.sec-table {
+		height: 250px;
+	}
+
+	.left-img {
+		text-align: center !important;
+		margin-top: 0px !important;
+	}
+
+	.padd-parra {
+		padding: 0px 15px !important;
+	}
+
+	.about-sec-content h2 {
+		text-align: center;
+		width: 100% !important;
+		font-size: 35px !important;
+		margin-top: 15px !important;
+	}
+
+	.about-sec-content p {
+		text-align: center;
+		width: 100% !important;
+	}
+
+	.about-post {
+		width: 60% !important;
+	}
+
+	.about-post.wid-2 {
+		width: 70% !important;
+	}
+
+	.about-post.wid-3 {
+		width: 80% !important;
+	}
+
+	.testmonail-cont i {
+		font-size: 20px !important;
+	}
+
+	.testmonail-cont p {
+		font-size: 10px !important;
+	}
+
+	button.owl-next {
+		font-size: 20px !important;
+		height: 30px !important;
+		width: 30px !important;
+		top: 100px !important;
+	}
+
+	button.owl-prev {
+		font-size: 20px !important;
+		height: 30px !important;
+		width: 30px !important;
+		top: 100px !important;
+	}
+
+	.testmonial-table {
+		height: 200px !important;
+	}
+
+	.testmonial-bg {
+		height: 300px !IMPORTANT;
+	}
+
+	section.testmonial-sec {
+		height: 300px !IMPORTANT;
+	}
+
+	.testmonial-sec:before {
+		height: 300px !IMPORTANT;
+	}
+
+	.testmonial-post {
+		height: 200px !important;
+	}
+
+
+	.insta-cont h2 {
+		font-size: 35px !important;
+	}
+
+	.insta-single img {
+		width: 90% !IMPORTANT;
+	}
+
+
+	.rev-row {
+		flex-direction: column-reverse;
+	}
+
+	.footer-top {
+		text-align: center !important;
+	}
+
+	.footer-top p {
+		width: 90% !important;
+		margin: 0 auto;
+	}
+
+	.footer-top-2 {
+		text-align: center !important;
+		margin-top: 20px;
+	}
+
+	h2.footer-title {
+		text-align: center !important;
+	}
+
+	.adress-post p {
+		text-align: center !important;
+		margin: 0 auto;
+	}
+
+	.Subscribe-post {
+		text-align: center !important;
+	}
+
+
+
+
+}
